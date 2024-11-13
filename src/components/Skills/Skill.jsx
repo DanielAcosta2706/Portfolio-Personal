@@ -1,5 +1,5 @@
 import { SkillCard } from "./SkillCard";
-import { skillItems } from "./SkillItems";
+import { skillItems } from "./skillItemskillItems";
 
 export const Skill = () => {
   return (
